@@ -1,0 +1,17 @@
+<svg id="stolencard_cont" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <circle id="Ellipse_1102" data-name="Ellipse 1102" cx="20" cy="20" r="20" fill="#fff"/>
+  <g id="reportcard_inner" transform="translate(8 8)">
+    <g id="vuesax_bulk_card-slash" data-name="vuesax/bulk/card-slash">
+      <g id="card-slash">
+        <path id="Vector" d="M15.6,0V7.46a4.144,4.144,0,0,1-4.15,4.14H0L3.57,8.03,4.85,6.75,11.6,0Z" transform="translate(6.4 9)" fill="#7053aa" opacity="0.4"/>
+        <path id="Vector-2" data-name="Vector" d="M13,0,2,11A4.125,4.125,0,0,1,0,7.46V0Z" transform="translate(2 9)" fill="#7053aa" opacity="0.4"/>
+        <path id="Vector-3" data-name="Vector" d="M4,2.01V3.47H0L3.47,0A4.019,4.019,0,0,1,4,2.01Z" transform="translate(18 5.53)" fill="#7053aa"/>
+        <path id="Vector-4" data-name="Vector" d="M18,.6l-5,5H0V4.14A4.144,4.144,0,0,1,4.15,0h11.7A4.136,4.136,0,0,1,18,.6Z" transform="translate(2 3.4)" fill="#7053aa"/>
+        <path id="Vector-5" data-name="Vector" d="M2.96.04,1.5,1.5H.75A.755.755,0,0,1,0,.75.755.755,0,0,1,.75,0h2A.522.522,0,0,1,2.96.04Z" transform="translate(5.25 15.75)" fill="#7053aa"/>
+        <path id="Vector-6" data-name="Vector" d="M5.28.75a.755.755,0,0,1-.75.75h-4A.794.794,0,0,1,0,1.28L1.28,0H4.53A.755.755,0,0,1,5.28.75Z" transform="translate(9.97 15.75)" fill="#7053aa"/>
+        <path id="Vector-7" data-name="Vector" d="M19.765.225a.773.773,0,0,0-1.09,0L.225,18.685a.773.773,0,0,0,0,1.09.791.791,0,0,0,.54.22.758.758,0,0,0,.54-.23L19.765,1.3A.743.743,0,0,0,19.765.225Z" transform="translate(2.005 2.005)" fill="#7053aa"/>
+        <path id="Vector-8" data-name="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

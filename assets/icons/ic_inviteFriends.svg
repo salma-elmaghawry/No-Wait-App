@@ -1,0 +1,12 @@
+<svg id="invite" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_bulk_setting-2" data-name="vuesax/bulk/setting-2">
+    <g id="setting-2">
+      <path id="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+      <g id="Add_User" data-name="Add User" transform="translate(2 2.5)">
+        <path id="Fill_1" data-name="Fill 1" d="M5.1,2.088H3.9V.912a.9.9,0,1,0-1.8,0V2.088H.9a.912.912,0,0,0,0,1.823H2.1V5.088a.9.9,0,1,0,1.8,0V3.911H5.1a.912.912,0,0,0,0-1.823" transform="translate(14 5)" fill="#4b5353" opacity="0.4"/>
+        <path id="Fill_4" data-name="Fill 4" d="M7.5,0C3.454,0,0,.647,0,3.231S3.433,6.484,7.5,6.484c4.045,0,7.5-.647,7.5-3.231S11.567,0,7.5,0" transform="translate(0 12.516)" fill="#4b5353"/>
+        <path id="Fill_7" data-name="Fill 7" d="M4.963,10.054A4.977,4.977,0,0,0,9.925,5.028,4.963,4.963,0,1,0,0,5.028a4.977,4.977,0,0,0,4.963,5.027" transform="translate(2.537 0)" fill="#4b5353" opacity="0.4"/>
+      </g>
+    </g>
+  </g>
+</svg>

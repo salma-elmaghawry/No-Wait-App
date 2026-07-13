@@ -1,0 +1,15 @@
+<svg id="tou_cont" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <circle id="Ellipse_1102" data-name="Ellipse 1102" cx="20" cy="20" r="20" fill="#fff"/>
+  <g id="tou_inner" transform="translate(8 8)">
+    <g id="vuesax_bulk_gift" data-name="vuesax/bulk/gift">
+      <g id="gift">
+        <path id="Vector" d="M16,0V8c0,3-1,4-4,4H4c-3,0-4-1-4-4V0Z" transform="translate(3.97 10)" fill="#7053aa" opacity="0.4"/>
+        <path id="Vector-2" data-name="Vector" d="M19,2V3a1.8,1.8,0,0,1-2,2H2A1.777,1.777,0,0,1,0,3V2A1.777,1.777,0,0,1,2,0H17A1.8,1.8,0,0,1,19,2Z" transform="translate(2.5 5)" fill="#7053aa"/>
+        <path id="Vector-3" data-name="Vector" d="M5.768,3H.248a.936.936,0,0,1,.03-1.3L1.7.278a.96.96,0,0,1,1.35,0Z" transform="translate(5.872 2.003)" fill="#7053aa" opacity="0.4"/>
+        <path id="Vector-4" data-name="Vector" d="M5.52,3H0L2.72.278a.96.96,0,0,1,1.35,0L5.49,1.7A.936.936,0,0,1,5.52,3Z" transform="translate(12.35 2.003)" fill="#7053aa" opacity="0.4"/>
+        <path id="Vector-5" data-name="Vector" d="M0,0V5.14a1,1,0,0,0,1.55.84l.94-.62a1,1,0,0,1,1.1,0l.89.6a1,1,0,0,0,1.55-.83V0Z" transform="translate(8.94 10)" fill="#7053aa" opacity="0.6"/>
+        <path id="Vector-6" data-name="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

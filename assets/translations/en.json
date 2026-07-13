@@ -1,0 +1,83 @@
+{
+    "app_name": "valU",
+    "common": {
+        "ok": "OK",
+        "cancel": "Cancel",
+        "retry": "Retry",
+        "save": "Save",
+        "next": "Next",
+        "skip": "Skip",
+        "done": "Done",
+        "loading": "Loading...",
+        "no_data": "No data available"
+    },
+    "preferences": {
+        "language": "Language",
+        "theme": "Theme",
+        "theme_light": "Light",
+        "theme_dark": "Dark",
+        "theme_system": "System"
+    },
+    "home": {
+        "registration": {
+            "online": "Online Registration",
+            "activate": "Activate your account at the nearest booth",
+            "continue_btn": "Continue Registration"
+        },
+        "banner": {
+            "title": "TicketsMarche",
+            "visit": "Visit",
+            "url": "Ticketsmarche.com",
+            "enjoy": "Buy your tickets and enjoy",
+            "percent": "20%",
+            "moneyback": "Moneyback",
+            "with": "with",
+            "card": "Valu Prepaid Card",
+            "terms": "Terms and conditions apply"
+        },
+        "bnpl": {
+            "title": "Buy now, pay later!",
+            "view_stores": "View Stores",
+            "search_hint": "Search for stores"
+        },
+        "shop_it": {
+            "subtitle": "Your one-stop shop for 50,000+ products.",
+            "explore": "Explore"
+        },
+        "nav": {
+            "home": "Home",
+            "stores": "Stores",
+            "shop_it": "Shop'IT",
+            "profile": "Profile",
+            "menu": "Menu"
+        }
+    },
+    "errors": {
+        "network_error": "No internet connection. Please check your network and try again",
+        "server_error": "Server error. Please try again later",
+        "unexpected_error": "An unexpected error occurred"
+    },
+    "auth": {
+        "errors": {
+            "invalid_credentials": "Invalid login credentials",
+            "email_in_use": "This email is already registered",
+            "rate_limit_exceeded": "Too many requests. Please wait a while before trying again",
+            "invalid_otp": "Code has expired or is invalid",
+            "email_not_confirmed": "Email not confirmed"
+        },
+        "login": {
+            "email_label": "Email",
+            "email_hint": "Enter your email",
+            "email_required": "Email is required",
+            "email_invalid": "Enter a valid email",
+            "password_label": "Password",
+            "password_hint": "Enter your password",
+            "password_required": "Password is required",
+            "password_length": "Password must be at least 6 characters"
+        },
+        "signup": {
+            "name_required": "Name is required",
+            "password_mismatch": "Passwords do not match"
+        }
+    }
+}

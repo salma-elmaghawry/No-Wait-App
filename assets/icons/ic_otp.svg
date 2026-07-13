@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56.5" height="38.536" viewBox="0 0 56.5 38.536">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_6369" data-name="Rectangle 6369" width="32.666" height="25.884" fill="#e94e1b"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.545" x2="0.43" y2="0.803" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bce2df"/>
+      <stop offset="0.586" stop-color="#479f99"/>
+      <stop offset="1" stop-color="#479f99"/>
+    </linearGradient>
+  </defs>
+  <g id="otpicon" transform="translate(-110.499 -200)">
+    <g id="Group_29700" data-name="Group 29700" transform="translate(110.999 200)">
+      <g id="Group_29810" data-name="Group 29810" transform="translate(23.334)">
+        <g id="Group_29808" data-name="Group 29808" clip-path="url(#clip-path)">
+          <path id="Path_30389" data-name="Path 30389" d="M10.76,0H21.906a10.632,10.632,0,0,1,10.76,10.5v.368a10.779,10.779,0,0,1-4.724,8.885,2.265,2.265,0,0,0-.889,2.6l.8,2.354a.913.913,0,0,1-1.487.944L22.61,22.325a2.374,2.374,0,0,0-1.579-.592l-1.938,0H10.76A10.632,10.632,0,0,1,0,11.236V10.5A10.632,10.632,0,0,1,10.76,0" transform="translate(0 0)" fill="#e94e1b"/>
+        </g>
+      </g>
+      <g id="Group_29809" data-name="Group 29809" transform="translate(0 5.534)">
+        <g id="Group_29811" data-name="Group 29811" transform="translate(0 0)">
+          <path id="Path_30389-2" data-name="Path 30389" d="M27.476,0H13.5A13.336,13.336,0,0,0,0,13.17v.462A13.52,13.52,0,0,0,5.925,24.776,2.841,2.841,0,0,1,7.04,28.032l-1,2.952A1.145,1.145,0,0,0,7.9,32.169L12.612,28a2.978,2.978,0,0,1,1.981-.743l2.431,0H27.476a13.336,13.336,0,0,0,13.5-13.17V13.17A13.336,13.336,0,0,0,27.476,0" stroke="rgba(255,255,255,0.79)" stroke-width="1" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <g id="Group_29893" data-name="Group 29893" transform="translate(7.381 15.614)">
+        <rect id="Rectangle_6412" data-name="Rectangle 6412" width="6" height="6" rx="1" transform="translate(1.62 0.387)" fill="#fff"/>
+        <rect id="Rectangle_6413" data-name="Rectangle 6413" width="6" height="6" rx="1" transform="translate(10.286 0.387)" fill="#fff"/>
+        <rect id="Rectangle_6414" data-name="Rectangle 6414" width="6" height="6" rx="1" transform="translate(18.953 0.387)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

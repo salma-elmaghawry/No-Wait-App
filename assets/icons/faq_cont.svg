@@ -1,0 +1,21 @@
+<svg id="faq_cont" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <circle id="Ellipse_1102" data-name="Ellipse 1102" cx="20" cy="20" r="20" fill="#fff"/>
+  <g id="faq_inner" transform="translate(8 8)">
+    <g id="vuesax_bulk_messages" data-name="vuesax/bulk/messages">
+      <g id="messages">
+        <path id="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+        <path id="Vector-2" data-name="Vector" d="M15.98,4.79v4a6.065,6.065,0,0,1-.04.75c-.23,2.7-1.82,4.04-4.75,4.04h-.4a.805.805,0,0,0-.64.32l-1.2,1.6a1.132,1.132,0,0,1-1.92,0l-1.2-1.6a.924.924,0,0,0-.64-.32h-.4C1.6,13.58,0,12.79,0,8.79v-4C0,1.86,1.35.27,4.04.04A6.065,6.065,0,0,1,4.79,0h6.4Q15.975,0,15.98,4.79Z" transform="translate(2 6)" fill="#e94e1b" opacity="0.4"/>
+        <g id="Group">
+          <path id="Vector-3" data-name="Vector" d="M1,2A1,1,0,1,1,2,1,1,1,0,0,1,1,2Z" transform="translate(8.99 12)" fill="#e94e1b"/>
+        </g>
+        <g id="Group-2" data-name="Group">
+          <path id="Vector-4" data-name="Vector" d="M1,2A1,1,0,1,1,2,1,1,1,0,0,1,1,2Z" transform="translate(12.49 12)" fill="#e94e1b"/>
+        </g>
+        <g id="Group-3" data-name="Group">
+          <path id="Vector-5" data-name="Vector" d="M1,2A1,1,0,1,1,2,1,1,1,0,0,1,1,2Z" transform="translate(5.5 12)" fill="#e94e1b"/>
+        </g>
+        <path id="Vector-6" data-name="Vector" d="M15.94,4.79v4q0,4.41-4.04,4.75a6.065,6.065,0,0,0,.04-.75v-4q0-4.785-4.79-4.79H.75A6.065,6.065,0,0,0,0,4.04C.23,1.35,1.82,0,4.75,0h6.4Q15.935,0,15.94,4.79Z" transform="translate(6.04 2)" fill="#e94e1b"/>
+      </g>
+    </g>
+  </g>
+</svg>

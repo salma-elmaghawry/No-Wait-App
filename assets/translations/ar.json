@@ -1,0 +1,83 @@
+{
+    "app_name": "ﭬاليو",
+    "common": {
+        "ok": "حسناً",
+        "cancel": "إلغاء",
+        "retry": "إعادة المحاولة",
+        "save": "حفظ",
+        "next": "التالي",
+        "skip": "تخطي",
+        "done": "تم",
+        "loading": "جارٍ التحميل...",
+        "no_data": "لا توجد بيانات"
+    },
+    "preferences": {
+        "language": "اللغة",
+        "theme": "المظهر",
+        "theme_light": "فاتح",
+        "theme_dark": "داكن",
+        "theme_system": "النظام"
+    },
+    "home": {
+        "registration": {
+            "online": "التسجيل أونلاين",
+            "activate": "فعّل حسابك في أقرب منفذ",
+            "continue_btn": "أكمل التسجيل"
+        },
+        "banner": {
+            "title": "تيكتس مارشيه",
+            "visit": "زور",
+            "url": "Ticketsmarche.com",
+            "enjoy": "اشترِ تذاكرك واستمتع",
+            "percent": "20%",
+            "moneyback": "استرداد نقدي",
+            "with": "مع",
+            "card": "بطاقة ﭬاليو المدفوعة مقدماً",
+            "terms": "تطبق الشروط والأحكام"
+        },
+        "bnpl": {
+            "title": "اشترِ الآن وادفع لاحقاً!",
+            "view_stores": "عرض المتاجر",
+            "search_hint": "ابحث عن المتاجر"
+        },
+        "shop_it": {
+            "subtitle": "وجهتك الواحدة لأكثر من 50,000 منتج.",
+            "explore": "استكشف"
+        },
+        "nav": {
+            "home": "الرئيسية",
+            "stores": "المتاجر",
+            "shop_it": "تسوّق",
+            "profile": "حسابي",
+            "menu": "القائمة"
+        }
+    },
+    "errors": {
+        "network_error": "لا يوجد اتصال بالإنترنت. يرجى التحقق من الشبكة والمحاولة مرة أخرى",
+        "server_error": "خطأ في الخادم. يرجى المحاولة لاحقاً",
+        "unexpected_error": "حدث خطأ غير متوقع"
+    },
+    "auth": {
+        "errors": {
+            "invalid_credentials": "بيانات تسجيل الدخول غير صحيحة",
+            "email_in_use": "هذا البريد الإلكتروني مسجل بالفعل",
+            "rate_limit_exceeded": "طلبات كثيرة جداً. يرجى الانتظار قليلاً قبل المحاولة مرة أخرى",
+            "invalid_otp": "الرمز منتهي الصلاحية أو غير صحيح",
+            "email_not_confirmed": "البريد الإلكتروني غير مؤكد"
+        },
+        "login": {
+            "email_label": "البريد الإلكتروني",
+            "email_hint": "أدخل بريدك الإلكتروني",
+            "email_required": "البريد الإلكتروني مطلوب",
+            "email_invalid": "أدخل بريداً إلكترونياً صحيحاً",
+            "password_label": "كلمة المرور",
+            "password_hint": "أدخل كلمة المرور",
+            "password_required": "كلمة المرور مطلوبة",
+            "password_length": "يجب أن تكون كلمة المرور 6 أحرف على الأقل"
+        },
+        "signup": {
+            "name_required": "الاسم مطلوب",
+            "password_mismatch": "كلمتا المرور غير متطابقتين"
+        }
+    }
+}

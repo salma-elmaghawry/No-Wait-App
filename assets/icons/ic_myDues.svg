@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="dues_icon" transform="translate(-22 -427)">
+    <rect id="Button_Shape" data-name="Button Shape" width="32" height="32" rx="10" transform="translate(22 427)" fill="#f0f0f6"/>
+    <g id="dues_inner" transform="translate(26 431)">
+      <g id="vuesax_bulk_note" data-name="vuesax/bulk/note">
+        <g id="note">
+          <path id="Vector" d="M4.87,18.5h9.25a4.87,4.87,0,0,0,4.87-4.87V4.87A4.87,4.87,0,0,0,14.12,0H4.87A4.87,4.87,0,0,0,0,4.87v8.75A4.872,4.872,0,0,0,4.87,18.5Z" transform="translate(2.5 3.5)" fill="#7053aa" opacity="0.4"/>
+          <path id="Vector-2" data-name="Vector" d="M.75,4.29A.749.749,0,0,1,0,3.54V.75a.75.75,0,0,1,1.5,0V3.53A.751.751,0,0,1,.75,4.29Z" transform="translate(7.54 2)" fill="#7053aa"/>
+          <path id="Vector-3" data-name="Vector" d="M.75,4.29A.749.749,0,0,1,0,3.54V.75a.75.75,0,1,1,1.5,0V3.53A.751.751,0,0,1,.75,4.29Z" transform="translate(14.96 2)" fill="#7053aa"/>
+          <path id="Vector-4" data-name="Vector" d="M8.17,1.5H.75A.75.75,0,0,1,.75,0H8.17a.75.75,0,0,1,0,1.5Z" transform="translate(6.61 12.21)" fill="#7053aa"/>
+          <path id="Vector-5" data-name="Vector" d="M5.39,1.5H.75A.75.75,0,0,1,.75,0H5.39a.75.75,0,0,1,0,1.5Z" transform="translate(6.61 15.92)" fill="#7053aa"/>
+          <path id="Vector-6" data-name="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

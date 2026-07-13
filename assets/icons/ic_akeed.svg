@@ -1,0 +1,18 @@
+<svg id="shaaalbaz_icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <rect id="Button_Shape" data-name="Button Shape" width="32" height="32" rx="10" fill="#f8efed"/>
+  <g id="vuesax_bulk_location" data-name="vuesax/bulk/location" transform="translate(4 4)">
+    <g id="location">
+      <path id="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+      <g id="Group_31632" data-name="Group 31632" transform="translate(0 -0.509)">
+        <path id="Vector-2" data-name="Vector" d="M7.824,0,4.917,4.18C2.027,4.93,0,6.66,0,8.67V5.74C0,2.9,3.355.53,7.824,0Z" transform="translate(2.24 5.53)" fill="#e94e1b"/>
+        <path id="Vector-3" data-name="Vector" d="M6.314,5.18V8.11C6.314,5.9,3.639,4.04,0,3.43.946,2.14,1.237,1.11.764.26A1.026,1.026,0,0,0,.6,0C4,.97,6.314,2.94,6.314,5.18Z" transform="translate(15.445 6.09)" fill="#e94e1b"/>
+        <g id="coin-svgrepo-com" transform="translate(6.927 3.018)">
+          <path id="Path_32090" data-name="Path 32090" d="M5.073,10.145a5.073,5.073,0,1,1,5.073-5.073A5.078,5.078,0,0,1,5.073,10.145Z" fill="#f8c9ba"/>
+          <path id="Path_32092" data-name="Path 32092" d="M5.073,10.145a5.073,5.073,0,1,1,5.073-5.073A5.078,5.078,0,0,1,5.073,10.145Z" fill="#f8c9ba"/>
+          <path id="Path_32093" data-name="Path 32093" d="M19.677,14.8h-.27A.408.408,0,0,1,19,14.391V11.408A.408.408,0,0,1,19.408,11h.27a.408.408,0,0,1,.408.408v2.983A.408.408,0,0,1,19.677,14.8Z" transform="translate(-14.47 -7.827)" fill="#fffffe"/>
+        </g>
+        <path id="Vector-4" data-name="Vector" d="M19.52,4.88V6.83c0,.2-.01.4-.02.59-.19,3.5-2.14,5.26-5.84,5.26H5.86a5.394,5.394,0,0,1-.71-.05Q.38,12.315.05,7.54A5.648,5.648,0,0,1,0,6.83V4.88A4.894,4.894,0,0,1,2.96.39,4.777,4.777,0,0,1,4.88,0h9.76a5.057,5.057,0,0,1,1.41.2A4.9,4.9,0,0,1,19.52,4.88Z" transform="translate(2.24 9.32)" fill="#f29476"/>
+      </g>
+    </g>
+  </g>
+</svg>
